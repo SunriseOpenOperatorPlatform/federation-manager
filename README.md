@@ -1,3 +1,11 @@
+## 🚨 Repository Archived — Project has moved!
+
+This repository is no longer maintained and has been archived.
+
+➡️ **The active development now continues at:**  
+🔗 [https://labs.etsi.org/rep/oop/code/federation-manager](https://labs.etsi.org/rep/oop/code/federation-manager)
+
+
 # Federation Manager
 
 **Federation Manager** is an open-source Python component implementing the *Federation Management* functionality of the 
